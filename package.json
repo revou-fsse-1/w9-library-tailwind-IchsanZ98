@@ -6,6 +6,7 @@
   "author": "{YOUR_NAME}",
   "license": "MIT",
   "devDependencies": {
+    "prettier": "^2.8.7",
     "tailwindcss": "^3.2.7"
   }
 }
