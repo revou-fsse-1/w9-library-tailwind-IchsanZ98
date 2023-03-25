@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Week 9 assignment",
   "main": "index.js",
-  "author": "{YOUR_NAME}",
+  "author": "Ichsan Zulfikar",
   "license": "MIT",
   "devDependencies": {
     "prettier": "^2.8.7",
